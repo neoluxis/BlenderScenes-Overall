@@ -1,9 +1,9 @@
 # 渲染结果
 *.mp4
 *.mkv
-*.jpeg
-*.jpg
-*.png
+
+# export files
+*.stl
 
 # 备份文件
-
+*.blend1
